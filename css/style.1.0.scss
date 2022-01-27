@@ -24,11 +24,6 @@ html, body {
   padding: 0;
   font-family: $mainFont;
   background: url(img/blue-snow.png);
-  &.image-zoom {
-    padding: 0 20px;
-    box-sizing: border-box;
-    background: #fff;
-  }
 }
 
 img {
@@ -92,9 +87,6 @@ header {
       }
     }
   }
-  &.image-zoom {
-    margin: 0 0 10px;
-  }
 }
 
 .intro {
@@ -134,11 +126,6 @@ header {
   &.categorized {
 
   }
-}
-
-#zoomed-image {
-  display: block;
-  margin: 0 auto;
 }
 
 #social-network-description {

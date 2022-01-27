@@ -8,4 +8,4 @@ $description =<<< EOT
 EOT;
 ?>
 
-<?php require($INC_DIR. "image-zoom.php"); ?>
+<?php require($INC_DIR. "social-network.php"); ?>
