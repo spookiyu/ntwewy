@@ -6,7 +6,7 @@ $pageDesc = "";
 
 <?php require($INC_DIR. "header.php"); ?>
 
-<p class="intro">images of every character in neo's social network. no the sort buttons do not work yet.</p>
+<p class="intro">images of every character in neo's social network description. no the sort buttons do not work yet.</p>
 <ul class="sort">
   <li><button id="alphabetize-social-network" class="inactive" onclick="alphabetizeSocialNetwork()">Alphabetize</button></li>
   <li><button id="categorize-social-network" onclick="categorizeSocialNetwork()">Categorize</button></li>
